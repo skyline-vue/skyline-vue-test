@@ -3,7 +3,7 @@
     <RouterLink to="/">Test1</RouterLink>
     <RouterLink to="/test2">Test2</RouterLink>
     <RouterLink to="/test3">Test3</RouterLink>
-    123
+    12346
   </nav>
   <RouterView />
 </template>
